@@ -1,15 +1,15 @@
-# Crypto Asset Discovery Tools (CADI) Index  
+# Crypto Asset Discovery Tools (CADI) Index
 
-A crucial first step in transitioning to quantum-safe cryptography is understanding your cryptographic landscape. This requires discovering and inventorying the cryptographic assets within your IT environment.  
+A crucial first step in transitioning to quantum-safe cryptography is understanding your cryptographic landscape. This requires discovering and inventorying the cryptographic assets within your IT environment.
 
-Various Crypto Asset Discovery (CADI) tools are emerging from different vendors, each with unique approaches and varying levels of maturity. Keeping track of this evolving market can be challenging.  
+Various Crypto Asset Discovery (CADI) tools are emerging from different vendors, each with unique approaches and varying levels of maturity. Keeping track of this evolving market can be challenging.
 
-The **CADI Index** aggregates publicly available information about these tools to support cybersecurity professionals in their research and decision-making. All data included here comes from public sources, such as [NIST SP 1800-38B](https://www.nccoe.nist.gov/sites/default/files/2023-12/pqc-migration-nist-sp-1800-38b-preliminary-draft.pdf) and official vendor websites.  
+The **CADI Index** aggregates publicly available information about these tools to support cybersecurity professionals in their research and decision-making. All data included here comes from public sources, such as [NIST SP 1800-38B](https://www.nccoe.nist.gov/sites/default/files/2023-12/pqc-migration-nist-sp-1800-38b-preliminary-draft.pdf) and official vendor websites.
 
-## Index Structure  
+## Index Structure
 
-- Tools are listed alphabetically by *vendor name*.  
-- *Yes/No* fields indicate whether a tool is confirmed to support a specific functionality.  
+- Tools are listed alphabetically by *vendor name*.
+- *Yes/No* fields indicate whether a tool is confirmed to support a specific functionality.
 - A blank field means the functionality is either unknown or unconfirmed.
 
 | Tool name                                                                                                                                                             | Vendor          | License    | Network traffic | Code / Development pipelines | Filesystem | Runtime and applications | Requires agents | Leverages external tools | Others                 | Comments |
@@ -39,3 +39,4 @@ The **CADI Index** aggregates publicly available information about these tools t
 | [SECUI BLUEMAX NGF VE](https://www.secui.com/en/cloud/bluemaxngfve)                                                                                                   | Samsung SDS     | Commercial | Yes             | No                           | No         | No                       | No              |                          |                        |          |
 | [AqtiveGuard](https://www.sandboxaq.com/solutions/aqtive-guard)                                                                                                       | SandboxAQ       | Commercial | Yes             | Yes                          | Yes        | Yes                      | No                |  Yes                   |                        |          |
 | [SSHerlock](https://info.ssh.com/ssherlock-ssh-key-discovery-and-post-quantum-resilience-assessment)                                                                  | SSH.com         | Opensource |                 |                              |            |                          |                 |                          | SSH keys               |          |
+| [Transparency Platform](https://www.binarly.io/blog/binarly-transparency-platform-v2-7-propels-enterprises-toward-post-quantum-readiness)                             | Binarly         | Commercial | No              | Yes                          | Yes        | Yes                      | No              | No                       | Firmware, Docker       |          |
