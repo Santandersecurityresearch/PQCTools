@@ -10,5 +10,5 @@ This section aggregates **publicly available** tools that help organizations **i
 |------------|---------|-----------|---------------|----------------------|-------|-----------|--------|---------|---------------|------------|----------|
 | [AnkaSecure](https://ankatech.co) | ANKA Tech | Commercial | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | |
 | [ExeQuantum](https://www.exequantum.com) | ExeQuantum | Commercial | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | ISO compliant and peer-reviewed |
-| [openssh](https://github.com/open-quantum-safe/openssh) | | Open Source | Yes | Yes | Yes | Yes | Falcon | SPHINCS | Yes | Yes | |
+| [openssh](https://github.com/open-quantum-safe/openssh) | Open Quantum Safe | Open Source | Yes | Yes | Yes | Yes | Falcon | SPHINCS | Yes | Yes | |
 | [crystals-kyber-js](https://github.com/dajiaji/crystals-kyber-js) | | Open Source | Yes | No | Yes | No | No | No | No | No | Javascript |
