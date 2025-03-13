@@ -7,7 +7,7 @@ The information provided here is either publicly available or has been supplied 
 ## Index
 
 * [Cryptography Asset Discovery and Inventory (CADI) tools](./CADI.md)
-* [Post-Quantum Cryptography Implementaion (PQCI) tools](./PQC_Implementation.md)
+* [Post-Quantum Cryptography Implementation (PQCI) tools](./PQC_Implementation.md)
 
 ## Contributing Guidelines
 
