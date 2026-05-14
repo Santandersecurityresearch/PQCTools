@@ -12,3 +12,4 @@ This section aggregates **publicly available** tools that help organizations **i
 | [ExeQuantum](https://www.exequantum.com) | ExeQuantum | Commercial | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | ISO compliant and peer-reviewed |
 | [openssh](https://github.com/open-quantum-safe/openssh) | Open Quantum Safe | Open Source | Yes | Yes | Yes | Yes | Falcon | SPHINCS+ | Yes | Yes | |
 | [crystals-kyber-js](https://github.com/dajiaji/crystals-kyber-js) | | Open Source | Yes | No | Yes | No | No | No | No | No | Javascript |
+| [QPKI](https://qpki.io) |  | Free | Yes | Yes | Yes | Yes | No | Yes | Yes | CLI | Pure Go X.509 PKI: CA, certs, CRL, OCSP, TSA, CMS. PQ & Hybrid certs (Catalyst, Composite). Includes QLab: 11 hands-on PQC labs. |
